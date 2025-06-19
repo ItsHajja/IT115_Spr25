@@ -1,0 +1,14 @@
+{
+    "name": "Hajja Trawally",
+    "age": 30,
+    "city": "Seattle, WA",
+    "interests": [
+        "Reading",
+        "Writing",
+        "Soccer",
+        "Shopping",
+        "Baking",
+        "Jogging"
+    ],
+    "is_student": true
+}
